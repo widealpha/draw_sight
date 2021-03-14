@@ -1,6 +1,6 @@
 import 'dart:io';
 
-import 'package:draw_sight/drawboard/paint_board.dart';
+import 'file:///D:/Project/Flutter/draw_sight/lib/view/draw/paint_board.dart';
 import 'package:flutter/material.dart';
 import 'package:image_cropper/image_cropper.dart';
 import 'package:image_picker/image_picker.dart';
